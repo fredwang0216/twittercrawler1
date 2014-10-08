@@ -6,6 +6,7 @@ Created on Jul 20, 2014
 import tweepy
 import twython
 
+#christian's key
 CONSUMER_KEY = 'XBv5hOeVFsC0gYWBqGWTlpNe7' 
 CONSUMER_SECRET = 'fjMzRpy5YlGlEIRI7f3ETCNHuTq5n0SeJy0KWJcpSWKQvZjXzT' 
 ACCESS_TOKEN_KEY = '2242680794-Nrd574NA2l9FF77dm43Tb3OfEL6ogb3dvzSh2o4' 
